@@ -28,7 +28,13 @@ The "DAILY-JOURNAL - Your Blog Area" application uses the following technologies
 # ScreenShots of the Website:
 
 ![](https://github.com/BhaskarKulshrestha/DAILY-JOURNAL---Your-Blog-Area/blob/main/IMAGES/Screenshot%202023-04-18%20220956.png)
+------------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/BhaskarKulshrestha/DAILY-JOURNAL---Your-Blog-Area/blob/main/IMAGES/Screenshot%202023-04-18%20221052.png)
+------------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/BhaskarKulshrestha/DAILY-JOURNAL---Your-Blog-Area/blob/main/IMAGES/Screenshot%202023-04-18%20221209.png)
+------------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/BhaskarKulshrestha/DAILY-JOURNAL---Your-Blog-Area/blob/main/IMAGES/Screenshot%202023-04-18%20221240.png)
+------------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/BhaskarKulshrestha/DAILY-JOURNAL---Your-Blog-Area/blob/main/IMAGES/Screenshot%202023-04-18%20221332.png)
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
