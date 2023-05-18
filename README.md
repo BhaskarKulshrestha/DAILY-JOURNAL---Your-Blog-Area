@@ -25,6 +25,27 @@ The "DAILY-JOURNAL - Your Blog Area" application uses the following technologies
 - EJS: A templating engine for Node.js.
 - Bootstrap: A front-end framework for building responsive websites.
 
+## Extra thing used => Lodash
+- Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm.
+- here we used _.lowerCase([string='']) :
+```
+Arguments
+[string=''] (string): The string to convert.
+Returns
+(string): Returns the lower cased string.
+```
+Example:
+```
+_.lowerCase('--Foo-Bar--');
+// => 'foo bar'
+ 
+_.lowerCase('fooBar');
+// => 'foo bar'
+ 
+_.lowerCase('__FOO_BAR__');
+// => 'foo bar'
+```
+
 # ScreenShots of the Website:
 
 ![](https://github.com/BhaskarKulshrestha/DAILY-JOURNAL---Your-Blog-Area/blob/main/IMAGES/Screenshot%202023-04-18%20220956.png)
