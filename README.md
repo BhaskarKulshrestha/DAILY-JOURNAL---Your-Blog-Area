@@ -1,6 +1,6 @@
 # DAILY-JOURNAL---Your-Blog-Area
 
-## [Full version of this project=> 🔗](https://github.com/BhaskarKulshrestha/Daily-Journal---The-Blog-Website-Full-Version-)
+## [Full version of this project => 🔗](https://github.com/BhaskarKulshrestha/Daily-Journal---The-Blog-Website-Full-Version-)
 
 ## Introduction
 The "DAILY-JOURNAL - Your Blog Area" is a web application designed for users who want to maintain a personal blog. This repository provides the complete source code of the application along with the necessary documentation to run it on a local machine.
